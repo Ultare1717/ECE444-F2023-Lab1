@@ -1,5 +1,7 @@
 # ECE444-F2023-Lab1
 
+This repo is a clone of : https://github.com/miguelgrinberg/flasky
+
 Activity 1:
 
 ![image](https://github.com/Ultare1717/ECE444-F2023-Lab1/assets/67229334/5ecfa510-7570-40ec-8f5c-b56b0d867603)
